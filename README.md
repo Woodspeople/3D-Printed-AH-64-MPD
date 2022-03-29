@@ -4,10 +4,10 @@ The goal of this project was to design a hardware setup for the AH-64, allowing 
 
 Here is a summary of the files in this repository:
 
-**Arduino IDE sketches (folder)**
+**Arduino_IDE_sketches (folder)**
 This folder contains my Arduino/Teensyduino sketches for USB HID input.
 
-**odt files (folder)**
+**odt_files (folder)**
 This folder contains the original source files for the PDFs in the repository.
 The un-compressed images make these files very large.
 (Download the release version without these instead to avoid wasting space and time.)

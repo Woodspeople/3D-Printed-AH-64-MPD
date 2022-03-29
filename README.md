@@ -9,8 +9,7 @@ This folder contains my Arduino/Teensyduino sketches for USB HID input.
 
 **odt_files (folder)**  
 This folder contains the original source files for the PDFs in the repository.
-The un-compressed images make these files very large.
-(Download the release version without these instead to avoid wasting space and time.)
+The .odt file for the build guide is quite large (135MB) so these files are stored with Git Large File Storage. If you want to download them you can do so by previewing them in the repository and clicking download there.
 
 **Stls (folder)**  
 This folder contains binary .stl files for all the required 3D printed parts.

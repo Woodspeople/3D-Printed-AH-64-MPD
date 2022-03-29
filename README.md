@@ -1,5 +1,7 @@
 Welcome to the AH-64 Printed MPD project.
 -
+<img src="https://user-images.githubusercontent.com/33555763/160710304-a461e329-bd43-4dc2-bf9c-f6394d93b1ae.JPG" alt="Image of construted MPDs" style="height: 400px;"/> <img src="https://user-images.githubusercontent.com/33555763/160710295-9b069574-214a-401c-a0df-eaf615ef09fb.jpg" alt="Image of CAD model" style="height: 400px;"/>
+
 The goal of this project was to design a hardware setup for the AH-64, allowing users to chose their own electronics to connect it to.
 
 Here is a summary of the files in this repository:
@@ -34,3 +36,4 @@ Check out the build guide or Bill of materials for more information.
 Made in Autodesk Fusion 360 (Educational License)
 
 3D Printed Ah-64 MPD project © 2022 by Elliot Fernhout is licensed under CC BY-NC 4.0. To view a copy of this license, visit http://creativecommons.org/licenses/by-nc/4.0/
+

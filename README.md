@@ -1,6 +1,6 @@
 Welcome to the AH-64 Printed MPD project.
 -
-<img src="https://user-images.githubusercontent.com/33555763/160710304-a461e329-bd43-4dc2-bf9c-f6394d93b1ae.JPG" alt="Image of construted MPDs" style="height: 400px;"/> <img src="https://user-images.githubusercontent.com/33555763/160710295-9b069574-214a-401c-a0df-eaf615ef09fb.jpg" alt="Image of CAD model" style="height: 400px;"/>
+<img src="https://user-images.githubusercontent.com/33555763/160710304-a461e329-bd43-4dc2-bf9c-f6394d93b1ae.JPG" alt="Image of construted MPDs" style="height: 350px;"/> <img src="https://user-images.githubusercontent.com/33555763/160710295-9b069574-214a-401c-a0df-eaf615ef09fb.jpg" alt="Image of CAD model" style="height: 350px;"/>
 
 The goal of this project was to design a hardware setup for the AH-64, allowing users to chose their own electronics to connect it to.
 

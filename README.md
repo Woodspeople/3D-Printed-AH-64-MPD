@@ -35,5 +35,5 @@ Check out the build guide or Bill of materials for more information.
 -
 Made in Autodesk Fusion 360 (Educational License)
 
-3D Printed Ah-64 MPD project © 2022 by Elliot Fernhout is licensed under CC BY-NC 4.0. To view a copy of this license, visit http://creativecommons.org/licenses/by-nc/4.0/
+3D Printed AH-64 MPD project © 2022 by Elliot Fernhout is licensed under CC BY-NC 4.0. To view a copy of this license, visit http://creativecommons.org/licenses/by-nc/4.0/
 
